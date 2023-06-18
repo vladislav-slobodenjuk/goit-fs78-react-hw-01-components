@@ -9,7 +9,8 @@ export const Card = styled.div`
   min-height: 300px;
   background-color: white;
   border-radius: 5px;
-  box-shadow: 1px 1px 14px 4px #7d8c9b;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
 `;
 
 export const CardHeader = styled.div`

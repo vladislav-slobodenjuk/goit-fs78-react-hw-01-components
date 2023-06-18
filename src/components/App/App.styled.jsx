@@ -8,7 +8,7 @@ export const Container = styled.div`
   width: 320px;
 
   font-size: 20px;
-  color: '#010101';
+  color: #010101;
 
   @media screen and (min-width: 768px) {
     width: 768px;
